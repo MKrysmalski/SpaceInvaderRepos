@@ -1,0 +1,127 @@
+C:\Users\Michael Krysmalski\source\repos\SpaceInvasion\bin\Debug\SpaceInvasion.exe.config
+C:\Users\Michael Krysmalski\source\repos\SpaceInvasion\bin\Debug\SpaceInvasion.exe
+C:\Users\Michael Krysmalski\source\repos\SpaceInvasion\bin\Debug\SpaceInvasion.pdb
+C:\Users\Michael Krysmalski\source\repos\SpaceInvasion\obj\Debug\SpaceInvasion.csprojAssemblyReference.cache
+C:\Users\Michael Krysmalski\source\repos\SpaceInvasion\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Krysmalski\source\repos\SpaceInvasion\obj\Debug\App.g.cs
+C:\Users\Michael Krysmalski\source\repos\SpaceInvasion\obj\Debug\SpaceInvasion_MarkupCompile.cache
+C:\Users\Michael Krysmalski\source\repos\SpaceInvasion\obj\Debug\SpaceInvasion_MarkupCompile.lref
+C:\Users\Michael Krysmalski\source\repos\SpaceInvasion\obj\Debug\MainWindow.baml
+C:\Users\Michael Krysmalski\source\repos\SpaceInvasion\obj\Debug\SpaceInvasion.g.resources
+C:\Users\Michael Krysmalski\source\repos\SpaceInvasion\obj\Debug\SpaceInvasion.Properties.Resources.resources
+C:\Users\Michael Krysmalski\source\repos\SpaceInvasion\obj\Debug\SpaceInvasion.csproj.GenerateResource.cache
+C:\Users\Michael Krysmalski\source\repos\SpaceInvasion\obj\Debug\SpaceInvasion.csproj.CoreCompileInputs.cache
+C:\Users\Michael Krysmalski\source\repos\SpaceInvasion\obj\Debug\SpaceInvasion.exe
+C:\Users\Michael Krysmalski\source\repos\SpaceInvasion\obj\Debug\SpaceInvasion.pdb
+C:\Users\Michael Krysmalski\source\repos\SpaceInvasion\obj\Debug\App.baml
+C:\Users\jupit\source\repos\SpaceInvasion\bin\Debug\SpaceInvasion.exe.config
+C:\Users\jupit\source\repos\SpaceInvasion\bin\Debug\SpaceInvasion.exe
+C:\Users\jupit\source\repos\SpaceInvasion\bin\Debug\SpaceInvasion.pdb
+C:\Users\jupit\source\repos\SpaceInvasion\obj\Debug\SpaceInvasion.csprojAssemblyReference.cache
+C:\Users\jupit\source\repos\SpaceInvasion\obj\Debug\MainWindow.g.cs
+C:\Users\jupit\source\repos\SpaceInvasion\obj\Debug\App.g.cs
+C:\Users\jupit\source\repos\SpaceInvasion\obj\Debug\SpaceInvasion_MarkupCompile.cache
+C:\Users\jupit\source\repos\SpaceInvasion\obj\Debug\SpaceInvasion_MarkupCompile.lref
+C:\Users\jupit\source\repos\SpaceInvasion\obj\Debug\App.baml
+C:\Users\jupit\source\repos\SpaceInvasion\obj\Debug\MainWindow.baml
+C:\Users\jupit\source\repos\SpaceInvasion\obj\Debug\SpaceInvasion.g.resources
+C:\Users\jupit\source\repos\SpaceInvasion\obj\Debug\SpaceInvasion.Properties.Resources.resources
+C:\Users\jupit\source\repos\SpaceInvasion\obj\Debug\SpaceInvasion.csproj.GenerateResource.cache
+C:\Users\jupit\source\repos\SpaceInvasion\obj\Debug\SpaceInvasion.csproj.CoreCompileInputs.cache
+C:\Users\jupit\source\repos\SpaceInvasion\obj\Debug\SpaceInvasion.exe
+C:\Users\jupit\source\repos\SpaceInvasion\obj\Debug\SpaceInvasion.pdb
+E:\SpaceInvasion\bin\Debug\SpaceInvasion.exe.config
+E:\SpaceInvasion\bin\Debug\SpaceInvasion.exe
+E:\SpaceInvasion\bin\Debug\SpaceInvasion.pdb
+E:\SpaceInvasion\obj\Debug\SpaceInvasion.csprojAssemblyReference.cache
+E:\SpaceInvasion\obj\Debug\MainWindow.g.cs
+E:\SpaceInvasion\obj\Debug\App.g.cs
+E:\SpaceInvasion\obj\Debug\SpaceInvasion_MarkupCompile.cache
+E:\SpaceInvasion\obj\Debug\SpaceInvasion_MarkupCompile.lref
+E:\SpaceInvasion\obj\Debug\App.baml
+E:\SpaceInvasion\obj\Debug\MainWindow.baml
+E:\SpaceInvasion\obj\Debug\SpaceInvasion.g.resources
+E:\SpaceInvasion\obj\Debug\SpaceInvasion.Properties.Resources.resources
+E:\SpaceInvasion\obj\Debug\SpaceInvasion.csproj.GenerateResource.cache
+E:\SpaceInvasion\obj\Debug\SpaceInvasion.csproj.CoreCompileInputs.cache
+E:\SpaceInvasion\obj\Debug\SpaceInvasion.exe
+E:\SpaceInvasion\obj\Debug\SpaceInvasion.pdb
+C:\Users\jupit\Desktop\SpaceInvasion\bin\Debug\SpaceInvasion.exe.config
+C:\Users\jupit\Desktop\SpaceInvasion\bin\Debug\SpaceInvasion.exe
+C:\Users\jupit\Desktop\SpaceInvasion\bin\Debug\SpaceInvasion.pdb
+C:\Users\jupit\Desktop\SpaceInvasion\obj\Debug\SpaceInvasion.csprojAssemblyReference.cache
+C:\Users\jupit\Desktop\SpaceInvasion\obj\Debug\MainWindow.g.cs
+C:\Users\jupit\Desktop\SpaceInvasion\obj\Debug\App.g.cs
+C:\Users\jupit\Desktop\SpaceInvasion\obj\Debug\SpaceInvasion_MarkupCompile.cache
+C:\Users\jupit\Desktop\SpaceInvasion\obj\Debug\SpaceInvasion_MarkupCompile.lref
+C:\Users\jupit\Desktop\SpaceInvasion\obj\Debug\App.baml
+C:\Users\jupit\Desktop\SpaceInvasion\obj\Debug\MainWindow.baml
+C:\Users\jupit\Desktop\SpaceInvasion\obj\Debug\SpaceInvasion.g.resources
+C:\Users\jupit\Desktop\SpaceInvasion\obj\Debug\SpaceInvasion.Properties.Resources.resources
+C:\Users\jupit\Desktop\SpaceInvasion\obj\Debug\SpaceInvasion.csproj.GenerateResource.cache
+C:\Users\jupit\Desktop\SpaceInvasion\obj\Debug\SpaceInvasion.csproj.CoreCompileInputs.cache
+C:\Users\jupit\Desktop\SpaceInvasion\obj\Debug\SpaceInvasion.exe
+C:\Users\jupit\Desktop\SpaceInvasion\obj\Debug\SpaceInvasion.pdb
+D:\SpaceInvasion_MichaelKrysmalski\bin\Debug\SpaceInvasion.exe.config
+D:\SpaceInvasion_MichaelKrysmalski\bin\Debug\SpaceInvasion.exe
+D:\SpaceInvasion_MichaelKrysmalski\bin\Debug\SpaceInvasion.pdb
+D:\SpaceInvasion_MichaelKrysmalski\obj\Debug\SpaceInvasion.csprojAssemblyReference.cache
+D:\SpaceInvasion_MichaelKrysmalski\obj\Debug\MainWindow.g.cs
+D:\SpaceInvasion_MichaelKrysmalski\obj\Debug\App.g.cs
+D:\SpaceInvasion_MichaelKrysmalski\obj\Debug\SpaceInvasion_MarkupCompile.cache
+D:\SpaceInvasion_MichaelKrysmalski\obj\Debug\SpaceInvasion_MarkupCompile.lref
+D:\SpaceInvasion_MichaelKrysmalski\obj\Debug\App.baml
+D:\SpaceInvasion_MichaelKrysmalski\obj\Debug\MainWindow.baml
+D:\SpaceInvasion_MichaelKrysmalski\obj\Debug\SpaceInvasion.g.resources
+D:\SpaceInvasion_MichaelKrysmalski\obj\Debug\SpaceInvasion.Properties.Resources.resources
+D:\SpaceInvasion_MichaelKrysmalski\obj\Debug\SpaceInvasion.csproj.GenerateResource.cache
+D:\SpaceInvasion_MichaelKrysmalski\obj\Debug\SpaceInvasion.csproj.CoreCompileInputs.cache
+D:\SpaceInvasion_MichaelKrysmalski\obj\Debug\SpaceInvasion.exe
+D:\SpaceInvasion_MichaelKrysmalski\obj\Debug\SpaceInvasion.pdb
+E:\SpaceInvasion_MichaelKrysmalski\bin\Debug\SpaceInvasion.exe.config
+E:\SpaceInvasion_MichaelKrysmalski\bin\Debug\SpaceInvasion.exe
+E:\SpaceInvasion_MichaelKrysmalski\bin\Debug\SpaceInvasion.pdb
+E:\SpaceInvasion_MichaelKrysmalski\obj\Debug\SpaceInvasion.csprojAssemblyReference.cache
+E:\SpaceInvasion_MichaelKrysmalski\obj\Debug\MainWindow.g.cs
+E:\SpaceInvasion_MichaelKrysmalski\obj\Debug\App.g.cs
+E:\SpaceInvasion_MichaelKrysmalski\obj\Debug\SpaceInvasion_MarkupCompile.cache
+E:\SpaceInvasion_MichaelKrysmalski\obj\Debug\SpaceInvasion_MarkupCompile.lref
+E:\SpaceInvasion_MichaelKrysmalski\obj\Debug\App.baml
+E:\SpaceInvasion_MichaelKrysmalski\obj\Debug\MainWindow.baml
+E:\SpaceInvasion_MichaelKrysmalski\obj\Debug\SpaceInvasion.g.resources
+E:\SpaceInvasion_MichaelKrysmalski\obj\Debug\SpaceInvasion.Properties.Resources.resources
+E:\SpaceInvasion_MichaelKrysmalski\obj\Debug\SpaceInvasion.csproj.GenerateResource.cache
+E:\SpaceInvasion_MichaelKrysmalski\obj\Debug\SpaceInvasion.exe
+E:\SpaceInvasion_MichaelKrysmalski\obj\Debug\SpaceInvasion.pdb
+D:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\bin\Debug\SpaceInvasion.exe.config
+D:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\bin\Debug\SpaceInvasion.exe
+D:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\bin\Debug\SpaceInvasion.pdb
+D:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\SpaceInvasion.csprojAssemblyReference.cache
+D:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\MainWindow.g.cs
+D:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\App.g.cs
+D:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\SpaceInvasion_MarkupCompile.cache
+D:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\SpaceInvasion_MarkupCompile.lref
+D:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\App.baml
+D:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\MainWindow.baml
+D:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\SpaceInvasion.g.resources
+D:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\SpaceInvasion.Properties.Resources.resources
+D:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\SpaceInvasion.csproj.GenerateResource.cache
+D:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\SpaceInvasion.csproj.CoreCompileInputs.cache
+D:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\SpaceInvasion.exe
+D:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\SpaceInvasion.pdb
+E:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\bin\Debug\SpaceInvasion.exe.config
+E:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\bin\Debug\SpaceInvasion.exe
+E:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\bin\Debug\SpaceInvasion.pdb
+E:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\SpaceInvasion.csprojAssemblyReference.cache
+E:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\MainWindow.g.cs
+E:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\App.g.cs
+E:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\SpaceInvasion_MarkupCompile.cache
+E:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\SpaceInvasion_MarkupCompile.lref
+E:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\App.baml
+E:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\MainWindow.baml
+E:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\SpaceInvasion.g.resources
+E:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\SpaceInvasion.Properties.Resources.resources
+E:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\SpaceInvasion.csproj.GenerateResource.cache
+E:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\SpaceInvasion.csproj.CoreCompileInputs.cache
+E:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\SpaceInvasion.exe
+E:\SpaceInvasion_Michael_Krysmalski\SpaceInvasion_MichaelKrysmalski\SpaceInvasion\obj\Debug\SpaceInvasion.pdb
